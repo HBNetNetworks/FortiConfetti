@@ -63,4 +63,4 @@ This project is licensed under the **GNU General Public License v3.0**. See [LIC
 
 ---
 
-© 2025 Jaco <your name or handle>
+© 2025 HBNet Networks
